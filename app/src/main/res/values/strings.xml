@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="please_wait">please wait....</string>
+    <string name="empty_result">Data not Found !</string>
+    <string name="loggin_success">Login Successful</string>
+    <string name="error">Error</string>
+    <string name="empty_check"><![CDATA[Please input username & password]]></string>
+    <string name="email_check">Please input valid email address</string>
+    <string name="delete">Do you want to delete this content?</string>
+    <string name="no">no</string>
+    <string name="yes">yes</string>
+    <string name="remove">REMOVE</string>
+</resources>
